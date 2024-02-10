@@ -55,5 +55,22 @@ Data Processing and Handling
    - get_stock_data(symbol, start_date, end_date): Fetches and filters historical stock data.
    - get_active_stocks(): Retrieves current list of active stocks.
 
-  
+Homepage  
+![image](https://github.com/xojoyboy/Stock-Market-Analysis-and-Predictor---Streamlit/assets/144647060/dc09fa87-a15f-48f6-b301-727daa93037c)
+
+Trend Visualization
+![image](https://github.com/xojoyboy/Stock-Market-Analysis-and-Predictor---Streamlit/assets/144647060/6316ff73-0f43-47b0-9c79-1aa2fb4f43fa)
+
+Market Indicator Analysis
+![image](https://github.com/xojoyboy/Stock-Market-Analysis-and-Predictor---Streamlit/assets/144647060/6aaaf3e0-c8dc-4b50-b214-a722ad455160)
+
+Stock Comparisons
+![image](https://github.com/xojoyboy/Stock-Market-Analysis-and-Predictor---Streamlit/assets/144647060/59da6ebb-f64e-4f1d-b076-dbf763a2d81d)
+
+Stock Price Prediction
+![image](https://github.com/xojoyboy/Stock-Market-Analysis-and-Predictor---Streamlit/assets/144647060/899eb835-be77-4e38-ab3c-b1666d726e8b)
+
+
+
+
 

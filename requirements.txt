@@ -1,0 +1,6 @@
+streamlit
+plotly
+alpha_vantage
+pandas
+scikit-learn
+numpy
